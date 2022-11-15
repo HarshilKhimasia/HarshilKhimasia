@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="64" viewBox="0 0 136 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.13" y1="0.117" x2="0.796" y2="0.785" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.191" y1="0.203" x2="0.907" y2="0.888" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <g id="phython_logo" transform="translate(-4438 -4803)">
+    <rect id="frame" width="136" height="64" transform="translate(4438 4803)" fill="none"/>
+    <g id="layer1" transform="translate(4000.639 4551.275)">
+      <g id="g1894" transform="translate(473.361 251.725)">
+        <path id="path8615" d="M76.873,67.469c-16.332,0-15.312,7.083-15.312,7.083l.018,7.338H77.164v2.2H55.389S44.938,82.907,44.938,99.386s9.122,15.895,9.122,15.895H59.5v-7.647s-.293-9.122,8.976-9.122H83.938s8.685.14,8.685-8.393V76.008S93.941,67.469,76.873,67.469ZM68.279,72.4a2.8,2.8,0,1,1-2.8,2.8A2.8,2.8,0,0,1,68.279,72.4Z" transform="translate(-44.938 -67.469)" fill="url(#linear-gradient)"/>
+        <path id="path8620" d="M89.247,143.063c16.332,0,15.312-7.083,15.312-7.083l-.018-7.338H88.956v-2.2h21.776s10.451,1.185,10.451-15.294-9.122-15.9-9.122-15.9h-5.444V102.9s.293,9.122-8.977,9.122H82.183s-8.685-.14-8.685,8.393v14.111S72.179,143.063,89.247,143.063Zm8.594-4.934a2.8,2.8,0,1,1,2.8-2.8A2.8,2.8,0,0,1,97.841,138.129Z" transform="translate(-56.848 -79.063)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

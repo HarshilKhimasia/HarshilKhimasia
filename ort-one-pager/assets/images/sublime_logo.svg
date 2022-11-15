@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="64" viewBox="0 0 136 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.055" y1="0.633" x2="0.999" y2="-0.022" gradientUnits="objectBoundingBox">
+      <stop offset="0.233" stop-color="#f89822"/>
+      <stop offset="1" stop-color="#c27818"/>
+    </linearGradient>
+  </defs>
+  <g id="sublime_logo" transform="translate(-4309 -4827)">
+    <rect id="frame" width="136" height="64" transform="translate(4309 4827)" fill="none"/>
+    <g id="sublime-text" transform="translate(4318.4 4800.4)">
+      <path id="Path_11695" data-name="Path 11695" d="M88.136,90.6H29.079A2.489,2.489,0,0,1,26.6,88.121V29.079A2.489,2.489,0,0,1,29.079,26.6H88.136a2.489,2.489,0,0,1,2.479,2.479V88.136A2.486,2.486,0,0,1,88.136,90.6Z" fill="#4d4d4e"/>
+      <path id="Path_11696" data-name="Path 11696" d="M129.6,95.92l33.5-10.631s2.378-1.246,1.805,1.06l.086,10.244s.415,1.5-1.648,1.877l-13.611,4.255Z" transform="translate(-88.243 -49.993)" fill="#f89820"/>
+      <path id="Path_11697" data-name="Path 11697" d="M123.6,161.5s-1.318.315-.931,2.565l-.072,9.872s-.115,1.246,2.249,1.748l33.2,10.688s1.118.444.989-.931l.014-11s.315-1.132-1.748-1.877l-13.568-4.255Z" transform="translate(-82.24 -115.572)" fill="#f89820"/>
+      <path id="Path_11698" data-name="Path 11698" d="M138.133,290.5l-14.127,4.313s-1.7.057-1.5,3.252-.014,9.628-.014,9.628.143,1.189,1.777.5l33.5-10.688s1.189-.3.186-.63S138.133,290.5,138.133,290.5Z" transform="translate(-82.148 -226.09)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

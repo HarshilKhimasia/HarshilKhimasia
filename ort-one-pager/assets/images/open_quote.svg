@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="open_quote" opacity="0.16">
+    <rect id="Rectangle_185" data-name="Rectangle 185" width="128" height="128" transform="translate(0)" fill="none"/>
+    <g id="quote" transform="translate(0 18.149)">
+      <path id="Path_11568" data-name="Path 11568" d="M3.75,91.851h48.2A3.75,3.75,0,0,0,55.7,88.1V39.9a3.75,3.75,0,0,0-3.75-3.75H31.6V3.75A3.75,3.75,0,0,0,27.851,0H15.8a3.748,3.748,0,0,0-3.557,2.564L.193,38.715A3.732,3.732,0,0,0,0,39.9V88.1a3.75,3.75,0,0,0,3.75,3.75Zm0,0" transform="translate(72.3)"/>
+      <path id="Path_11569" data-name="Path 11569" d="M292.949,91.851h48.2a3.75,3.75,0,0,0,3.75-3.75V39.9a3.75,3.75,0,0,0-3.75-3.75H320.8V3.75A3.75,3.75,0,0,0,317.049,0H305a3.751,3.751,0,0,0-3.558,2.564l-12.05,36.151A3.76,3.76,0,0,0,289.2,39.9V88.1a3.75,3.75,0,0,0,3.75,3.75Zm0,0" transform="translate(-289.199)"/>
+    </g>
+  </g>
+</svg>

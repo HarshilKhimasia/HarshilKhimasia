@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="64" viewBox="0 0 136 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.299" y1="0.512" x2="0.841" y2="0.815" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#263238" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#263238" stop-opacity="0.02"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.147" cy="0.135" r="1.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="android_studio_logo" transform="translate(-4134 -5526)">
+    <rect id="frame" width="136" height="64" transform="translate(4134 5526)" fill="none"/>
+    <g id="g690" transform="translate(4004.031 5350.618)">
+      <g id="Clipped" transform="translate(167.97 175.382)">
+        <circle id="Oval" cx="29.5" cy="29.5" r="29.5" transform="translate(0 0)" fill="#45ef8a"/>
+      </g>
+      <g id="g44" transform="translate(167.97 205.04)">
+        <path id="Shape" d="M29.659,129.268A29.65,29.65,0,0,0,59.305,100h.012A29.659,29.659,0,1,1,0,100H.012A29.65,29.65,0,0,0,29.659,129.268Z" transform="translate(0 -100)" fill="rgba(38,50,56,0.2)"/>
+      </g>
+      <g id="g53" transform="translate(167.97 175.382)">
+        <path id="path51" d="M29.659,0A29.66,29.66,0,0,0,0,29.659H59.317A29.66,29.66,0,0,0,29.659,0Z" fill="#3ddc84"/>
+      </g>
+      <g id="g62" transform="translate(193.726 196.455)">
+        <circle id="circle60" cx="3.902" cy="3.902" r="3.902" transform="translate(0 0)" fill="#3ddc84"/>
+      </g>
+      <g id="g71" transform="translate(167.97 204.65)">
+        <path id="polygon69" d="M59.317,99.074H0v-.39H59.317Z" transform="translate(0 -98.684)" fill="rgba(38,50,56,0.05)"/>
+      </g>
+      <g id="g80" transform="translate(167.97 205.04)">
+        <path id="polygon78" d="M59.317,100.39H0V100H59.317Z" transform="translate(0 -100)" fill="rgba(255,255,255,0.05)"/>
+      </g>
+      <g id="g89" transform="translate(175.548 186.309)">
+        <path id="polygon87" d="M41.322,55.574,25.553,89.915H77.291V63.379L50.755,36.842l-6.244,4.683Z" transform="translate(-25.553 -36.842)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="g105" transform="translate(167.97 175.382)">
+        <path id="path103" d="M29.659.39A29.65,29.65,0,0,1,59.305,29.659h.012A29.659,29.659,0,0,0,0,29.659H.012A29.65,29.65,0,0,1,29.659.39Z" fill="rgba(255,255,255,0.2)"/>
+      </g>
+      <g id="g124" transform="translate(196.727 205.04)">
+        <g id="Group" transform="translate(0 0)">
+          <g id="g121" transform="translate(0 0)">
+            <path id="path113" d="M18.646,10.526H11.434L29.791,42.319l4.234,2.443a.793.793,0,0,0,.394.105.783.783,0,0,0,.78-.78V39.194Z" transform="translate(-11.434 -10.526)" fill="#d7effe"/>
+            <path id="path115" d="M18.646,10.526H11.434L29.791,42.319l4.234,2.443a.793.793,0,0,0,.394.105.783.783,0,0,0,.78-.78V39.194Z" transform="translate(-11.434 -10.526)" fill="#bdbdbd" opacity="0.3"/>
+            <path id="polygon117" d="M51.763,39.194,35.213,10.526h-.226L51.763,39.584Z" transform="translate(-28.001 -10.526)" fill="rgba(255,255,255,0.2)"/>
+            <path id="path119" d="M34.416,44.477a.793.793,0,0,1-.394-.105l-4.234-2.443-18.127-31.4h-.226L29.791,42.319l4.234,2.443a.793.793,0,0,0,.394.105.783.783,0,0,0,.78-.78V43.7a.789.789,0,0,1-.784.78Z" transform="translate(-11.434 -10.526)" fill="rgba(33,33,33,0.1)"/>
+          </g>
+        </g>
+      </g>
+      <g id="g143" transform="translate(174.764 205.04)">
+        <g id="g141" transform="translate(0 0)">
+          <g id="g139" transform="translate(0 0)">
+            <path id="path133" d="M49.54,10.526A15.61,15.61,0,0,1,26.812,24.419L33.93,12.087l.9-1.561H27.62L11.066,39.194v4.894a.783.783,0,0,0,.78.78.793.793,0,0,0,.394-.105l4.234-2.443,7.212-12.488a21.856,21.856,0,0,0,32.1-19.305Z" transform="translate(-11.066 -10.526)" fill="#d7effe"/>
+            <path id="path135" d="M27.62,10.526,11.066,39.194v.39l16.78-29.058Zm6.31,15.61a15.533,15.533,0,0,1-7.118-1.717v.39A15.61,15.61,0,0,0,49.54,10.917h6.232c0-.129.012-.258.012-.39H49.54A15.61,15.61,0,0,1,33.93,26.136Z" transform="translate(-11.066 -10.526)" fill="rgba(255,255,255,0.4)"/>
+            <path id="path137" d="M34.832,10.526h-.226l-7.8,13.5v.39Zm20.94,0A21.849,21.849,0,0,1,23.686,29.441L16.475,41.929,12.24,44.372a.793.793,0,0,1-.394.105.783.783,0,0,1-.78-.78v.39a.783.783,0,0,0,.78.781.793.793,0,0,0,.394-.105l4.234-2.443,7.212-12.488a21.856,21.856,0,0,0,32.1-19.305Z" transform="translate(-11.066 -10.526)" fill="rgba(33,33,33,0.1)"/>
+          </g>
+        </g>
+      </g>
+      <g id="g158" transform="translate(188.262 186.309)">
+        <g id="g156" transform="translate(0 0)">
+          <g id="g154" transform="translate(0)">
+            <path id="path152" d="M26.917,15.209h-3.9V10.526H16.77v4.683h-3.9a2.348,2.348,0,0,0-2.341,2.341V29.258l7.711,7.7a2.343,2.343,0,0,0,1.655.687,2.319,2.319,0,0,0,1.655-.687l7.711-7.7V17.551a2.348,2.348,0,0,0-2.341-2.341ZM19.892,28.478a3.9,3.9,0,1,1,3.9-3.9A3.9,3.9,0,0,1,19.892,28.478Z" transform="translate(-10.526 -10.526)" fill="#073042"/>
+          </g>
+        </g>
+      </g>
+      <g id="g167" transform="translate(188.262 186.309)">
+        <path id="path165" d="M84.811,41.525h-3.9v.39h3.9a2.348,2.348,0,0,1,2.341,2.341v-.39a2.348,2.348,0,0,0-2.341-2.341Zm-3.9-4.683H74.665v.39h6.244Zm-6.244,4.683h-3.9a2.348,2.348,0,0,0-2.341,2.341v.39a2.348,2.348,0,0,1,2.341-2.341h3.9Zm3.122,13.268a3.9,3.9,0,0,1-3.9-3.9v.39a3.9,3.9,0,0,0,7.8,0v-.39a3.9,3.9,0,0,1-3.9,3.9Z" transform="translate(-68.421 -36.842)" fill="rgba(255,255,255,0.1)"/>
+      </g>
+      <g id="g176" transform="translate(188.262 196.065)">
+        <path id="path174" d="M77.787,70.127a3.9,3.9,0,0,1,3.9,3.9v-.39a3.9,3.9,0,0,0-7.8,0v.39A3.9,3.9,0,0,1,77.787,70.127Zm1.655,15.9a2.337,2.337,0,0,1-3.309,0l-7.711-7.7v.39l7.711,7.7a2.337,2.337,0,0,0,3.309,0l7.711-7.7v-.39Z" transform="translate(-68.421 -69.737)" fill="rgba(33,33,33,0.1)"/>
+      </g>
+      <path id="path178" d="M227.286,205.04a29.659,29.659,0,1,0-48.96,22.505l-3.559,6.162V238.6a.783.783,0,0,0,.78.78.793.793,0,0,0,.394-.105l4.234-2.443,3.305-5.721a29.7,29.7,0,0,0,28.3,0l3.305,5.721,4.234,2.443a.793.793,0,0,0,.394.105.783.783,0,0,0,.78-.78v-4.894l-3.559-6.162a29.58,29.58,0,0,0,10.353-22.505Z" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>
