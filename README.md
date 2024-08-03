@@ -1,4 +1,4 @@
-# Hi there, I'm Harshil Khimasia! 👋
+# Building Websites and Web Applications
 
 I'm a web developer, specializing in:
 - Next.js and React
