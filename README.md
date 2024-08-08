@@ -1,6 +1,6 @@
 # Building Websites and Web Applications
 
-### Connect with Me
+### Visit my Website
 - [Website](https://www.harshilkhimasia.com)
 
 I'm a freelance web developer, specializing in:
