@@ -1,7 +1,7 @@
 # Building Websites and Web Applications
 
 ### Visit my Website
-- [Website](https://www.harshilkhimasia.com)
+- [harshilkhimasia.com](https://www.harshilkhimasia.com)
 
 I'm a freelance web developer, specializing in:
 - Next.js and React
