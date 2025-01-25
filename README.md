@@ -3,7 +3,7 @@
 ### Visit my Website
 - [harshilkhimasia.com](https://www.harshilkhimasia.com)
 
-I'm a freelance web developer, specializing in:
+I'm a professional web developer, specializing in:
 - Next.js and React
 - Strapi for CMS
 - MERN stack projects
