@@ -5,7 +5,6 @@
 
 I'm a professional web developer, specializing in:
 - Next.js and React
-- Strapi for CMS
 - MERN stack projects
 
 - ### Credentials
